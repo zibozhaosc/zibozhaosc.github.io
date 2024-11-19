@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Artificial Intelligence on Zibo Zhao</title>
-    <link>https://zibozhaosc.github.io/tags/artificial-intelligence/</link>
+    <link>http://localhost:1313/tags/artificial-intelligence/</link>
     <description>Recent content in Artificial Intelligence on Zibo Zhao</description>
     <generator>Hugo -- 0.128.1</generator>
     <language>en</language>
     <lastBuildDate>Tue, 19 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://zibozhaosc.github.io/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI and Creative Process</title>
-      <link>https://zibozhaosc.github.io/research/paper5/</link>
+      <link>http://localhost:1313/research/paper5/</link>
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://zibozhaosc.github.io/research/paper5/</guid>
+      <guid>http://localhost:1313/research/paper5/</guid>
       <description>Working In Progress</description>
     </item>
     <item>
       <title>How Do Go Players Make Better Decision After AI-existence: The Role of Learning</title>
-      <link>https://zibozhaosc.github.io/research/paper4/</link>
+      <link>http://localhost:1313/research/paper4/</link>
       <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://zibozhaosc.github.io/research/paper4/</guid>
+      <guid>http://localhost:1313/research/paper4/</guid>
       <description>Working In Progress</description>
     </item>
   </channel>

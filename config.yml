@@ -3,6 +3,9 @@ title: Zibo Zhao
 paginate: 20
 theme: PaperMod
 
+relativeURLs: true
+canonifyURLs: true
+
 enableInlineShortcodes: true
 enableRobotsTXT: true
 
