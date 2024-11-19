@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Text-to-Table on Zibo Zhao</title>
+    <link>http://localhost:1313/tags/text-to-table/</link>
+    <description>Recent content in Text-to-Table on Zibo Zhao</description>
+    <generator>Hugo -- 0.128.1</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 19 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/text-to-table/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TKGT: Redefinition and A New Way of Text-to-Table Tasks Based on Real World Demands and Knowledge Graphs Augmented LLMs</title>
+      <link>http://localhost:1313/research/paper2/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/paper2/</guid>
+      <description>Accepted @ EMNLP2024 main session</description>
+    </item>
+  </channel>
+</rss>

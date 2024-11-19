@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Papers on Zibo Zhao</title>
+    <link>http://localhost:1313/research/</link>
+    <description>Recent content in Papers on Zibo Zhao</description>
+    <generator>Hugo -- 0.128.1</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 19 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Empowering the Understanding of Labor Market Mismatch with LLMs</title>
+      <link>http://localhost:1313/research/paper1/</link>
+      <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/paper1/</guid>
+      <description>Available as NBER workpaper w32327: https://www.nber.org/papers/w32327.</description>
+    </item>
+    <item>
+      <title>AI and Creative Process</title>
+      <link>http://localhost:1313/research/paper5/</link>
+      <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/paper5/</guid>
+      <description>Working In Progress</description>
+    </item>
+    <item>
+      <title>How Do Go Players Make Better Decision After AI-existence: The Role of Learning</title>
+      <link>http://localhost:1313/research/paper4/</link>
+      <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/paper4/</guid>
+      <description>Working In Progress</description>
+    </item>
+    <item>
+      <title>TKGT: Redefinition and A New Way of Text-to-Table Tasks Based on Real World Demands and Knowledge Graphs Augmented LLMs</title>
+      <link>http://localhost:1313/research/paper2/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/paper2/</guid>
+      <description>Accepted @ EMNLP2024 main session</description>
+    </item>
+    <item>
+      <title>Relating the Seemingly Unrelated: Principled Understanding of Generalization for Generative Models in Arithmetic Reasoning Tasks</title>
+      <link>http://localhost:1313/research/paper3/</link>
+      <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/paper3/</guid>
+      <description>Preprint</description>
+    </item>
+  </channel>
+</rss>

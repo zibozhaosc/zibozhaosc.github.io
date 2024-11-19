@@ -1,0 +1,17 @@
+<h1>{{ .Title }}</h1>
+<p>{{ .Description }}</p>
+
+{{ range .Sections }}
+  <div class="category">
+    <h2>{{ .Title }}</h2>
+    <p>{{ .Params.description }}</p>
+    <ul>
+      {{ range .Pages.ByWeight }}
+        <li>
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          <span>{{ .Params.date | dateFormat "January 2, 2006" }}</span>
+        </li>
+      {{ end }}
+    </ul>
+  </div>
+{{ end }}
