@@ -3,7 +3,7 @@ title: "Relating the Seemingly Unrelated: Principled Understanding of Generaliza
 weight: 5
 date: 2024-07-24
 lastmod: 2024-08-10
-tags: ["Machine Learning","Arithmetic Transformer"]
+tags: ["Machine Learning","Arithmetic Transformer", "Understanging the Ability of AI Models"]
 author: ["Xingcheng Xu", "Zibo Zhao", "Haipeng Zhang", "Yanqing Yang"]
 description: "Preprint" 
 summary: "Working Paper-Artificial Intelligence Theory"

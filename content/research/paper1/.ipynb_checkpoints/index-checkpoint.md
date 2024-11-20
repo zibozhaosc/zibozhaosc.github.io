@@ -4,7 +4,7 @@ description: "This paper explores how large language models can better align ski
 date: 2024-04-15
 weight: 1
 lastmod: 2024-11-19
-tags: ["LLM", "Labor Market Mismatch", "Measurement"]
+tags: ["Labor Economics", "Large Language Model", "Labor Market Mismatch", "AI for Economic Measurement"]
 author: ["Yi Chen", "Hanming Fang", "Yi Zhao", "Zibo Zhao"]
 description: "Available as NBER workpaper w32327: https://www.nber.org/papers/w32327." 
 summary: "Working Paper-LLMs for Building Flexible Labor Market Measurement" 

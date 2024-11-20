@@ -3,7 +3,7 @@ title: "TKGT: Redefinition and A New Way of Text-to-Table Tasks Based on Real Wo
 weight: 4
 date: 2024-09-11
 lastmod: 2024-10-19
-tags: ["LLM","Knowledge Graph","Text-to-Table"]
+tags: ["LLM","Knowledge Graph","Text-to-Table", "LLM Engineering for Social Science"]
 author: ["Zibo Zhao", "Peiwen Jiang", "Xinbo Lin", "Ruhui Ma", "Yvonne Jie Chen", "Jinghua Cheng"]
 description: "Accepted @ EMNLP2024 main session" 
 summary: "Conference Publication-Artificial Intelligence Application to Textual Data Process for Chinese Legislation Document" 

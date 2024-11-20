@@ -3,7 +3,7 @@ title: "AI and Creative Process"
 weight: 2
 date: 2024-10-24
 lastmod: 2024-11-19
-tags: ["Creative Production","Artificial Intelligence"]
+tags: ["Creative Production","Artificial Intelligence", "Human-AI Interaction"]
 author: ["Yvonne Jie Chen", "Jie Gong", "Jin Li", "Zibo Zhao"]
 description: "Working In Progress" 
 summary: "Working Paper Coming Soon"

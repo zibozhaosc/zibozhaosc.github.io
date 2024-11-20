@@ -3,7 +3,7 @@ title: "How Do Go Players Make Better Decision After AI-existence: The Role of L
 weight: 3
 date: 2024-07-24
 lastmod: 2024-11-10
-tags: ["Decision Theory","Artificial Intelligence"]
+tags: ["Decision Theory","Artificial Intelligence", "Human-AI Interaction"]
 author: ["Zibo Zhao", "Xingcheng Xu", "Yvonne Jie Chen", "Yanqing Yang"]
 description: "Working In Progress" 
 summary: "Working Paper Coming Soon"
