@@ -1,12 +1,12 @@
 ---
-title: "Relating the Seemingly Unrelated: Principled Understanding of Generalization for Generative Models in Arithmetic Reasoning Tasks" 
+title: "Principled Understanding of Generalization for Generative Models in Arithmetic Reasoning Tasks" 
 weight: 5
 date: 2024-07-24
-lastmod: 2024-08-10
+lastmod: 2025-05-30
 tags: ["Machine Learning","Arithmetic Transformer", "Understanging the Ability of AI Models"]
 author: ["Xingcheng Xu", "Zibo Zhao", "Haipeng Zhang", "Yanqing Yang"]
-description: "Preprint" 
-summary: "Working Paper-Artificial Intelligence Theory"
+description: "Accepted @ ACL2025 main session" 
+summary: "Conference Publication"
 
 ---
 
@@ -21,22 +21,6 @@ summary: "Working Paper-Artificial Intelligence Theory"
 
 ##### Abstract
 
-Large language models (LLMs) have demonstrated impressive versatility across numerous tasks, yet their generalization capabilities remain poorly understood. To investigate these behaviors, arithmetic tasks serve as important venues. In previous studies, seemingly unrelated mysteries still exist -- (1) models with appropriate positional embeddings can correctly perform longer unseen arithmetic operations such as addition, but their effectiveness varies in more complex tasks like multiplication; (2) models perform well for longer unseen cases in modular addition under specific moduli (e.g., modulo 100) but struggle under very close moduli (e.g., modulo 101), regardless of the positional encoding used. We believe previous studies have been treating the symptoms rather than addressing the root cause -- they have paid excessive attention to improving model components, while overlooking the differences in task properties that may be the real drivers. This is confirmed by our unified theoretical framework for different arithmetic scenarios. For example, unlike multiplication, the digital addition task has the property of translation invariance which naturally aligns with the relative positional encoding, and this combination leads to successful generalization of addition to unseen longer domains. The discrepancy in operations modulo 100 and 101 arises from the base. Modulo 100, unlike 101, is compatible with the decimal system (base 10), such that unseen information in digits beyond the units digit and the tens digit is actually not needed for the task. Extensive experiments with GPT-like models validate our theoretical predictions. These findings deepen our understanding of the generalization mechanisms, and facilitate more data-efficient model training and objective-oriented AI alignment.
+Transformer-based models excel in various tasks but their generalization capabilities, especially in arithmetic reasoning, remain incompletely understood. Arithmetic tasks provide a controlled framework to explore these capabilities, yet performance anomalies persist, such as inconsistent effectiveness in multiplication and erratic generalization in modular addition (e.g., modulo 100 vs. 101). This paper develops a unified theoretical framework for understanding the generalization behaviors of transformers in arithmetic tasks, focusing on length generalization. Through detailed analysis of addition, multiplication, and modular operations, we reveal that translation invariance in addition aligns with relative positional encoding for robust generalization, while base mismatch in modular operations disrupts this alignment. Experiments across GPT-family models validate our framework, confirming its ability to predict generalization behaviors. Our work highlights the importance of task structure and training data distribution for achieving data-efficient and structure-aware training, providing a systematic approach to understanding of length generalization in transformers.
 
 ---
-
-##### Citation
-
-Xu, Xingcheng, Zibo Zhao, Haipeng Zhang and Yanqing Yang. “Relating the Seemingly Unrelated: Principled Understanding of Generalization for Generative Models in Arithmetic Reasoning Tasks.” ArXiv abs/2407.17963.
-
-```BibTeX
-@misc{xu2024relatingseeminglyunrelatedprincipled,
-      title={Relating the Seemingly Unrelated: Principled Understanding of Generalization for Generative Models in Arithmetic Reasoning Tasks}, 
-      author={Xingcheng Xu and Zibo Zhao and Haipeng Zhang and Yanqing Yang},
-      year={2024},
-      eprint={2407.17963},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2407.17963}, 
-}
-```

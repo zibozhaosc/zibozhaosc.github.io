@@ -20,7 +20,7 @@ params:
     description: "I am a research assistant at HKU business school, my research interest is labor economics and artificial intelligence."
     author: Zibo Zhao
     # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "July 2024"
+    DateFormat: "May 2025"
     defaultTheme: light
     hideFooter: false
     disableThemeToggle: true
@@ -44,7 +44,7 @@ params:
     profileMode:
           enabled: true
           title: Zibo Zhao
-          subtitle: "I am an aspiring social science researcher specialized in the intersection between applied micro-economics and artificial intelligence. Currently I am a research assistant at HKU business school working with prof.Jie Gong. \n\n\n  I have worked on topics like building measurement for labor market with modern artificial intelligence models, the impact of human-ai collaboration on the creative production process, and building ai-tools for tabularizing semi-structured textual data.\n\n\n You can contact me at: andrewzhao054@gmail.com or zbzhao@hku.hk"
+          subtitle: "I am an incoming Ph.D student in the W.P.Carey School of Business in ASU. Currently I am a research assistant at HKU business school working with prof.Jie Gong. \n\n\n  I have worked on topics like building measurement for labor market with language models, the impact of human-ai collaboration on the creative production process, and building tools for tabularizing semi-structured textual data.\n\n\n You can contact me at: andrewzhao054@gmail.com or zbzhao@hku.hk"
           imageUrl: "CCF2024-headpic.jpg"
           imageWidth: 160
           imageHeight: 160

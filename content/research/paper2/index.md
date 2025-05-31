@@ -6,7 +6,7 @@ lastmod: 2024-10-19
 tags: ["LLM","Knowledge Graph","Text-to-Table", "LLM Engineering for Social Science"]
 author: ["Zibo Zhao", "Peiwen Jiang", "Xinbo Lin", "Ruhui Ma", "Yvonne Jie Chen", "Jinghua Cheng"]
 description: "Accepted @ EMNLP2024 main session" 
-summary: "Conference Publication-Artificial Intelligence Application to Textual Data Process for Chinese Legislation Document" 
+summary: "Conference Publication-Textual Data Process Tool for Chinese Legislation Document" 
 
 ---
 

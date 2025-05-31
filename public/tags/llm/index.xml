@@ -6,15 +6,8 @@
     <description>Recent content in LLM on Zibo Zhao</description>
     <generator>Hugo -- 0.128.1</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 19 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/llm/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Empowering the Understanding of Labor Market Mismatch with LLMs</title>
-      <link>http://localhost:1313/research/paper1/</link>
-      <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/paper1/</guid>
-      <description>Available as NBER workpaper w32327: https://www.nber.org/papers/w32327.</description>
-    </item>
     <item>
       <title>TKGT: Redefinition and A New Way of Text-to-Table Tasks Based on Real World Demands and Knowledge Graphs Augmented LLMs</title>
       <link>http://localhost:1313/research/paper2/</link>
